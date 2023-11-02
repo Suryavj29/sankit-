@@ -1,0 +1,75 @@
+[ 
+	{ 
+		"id": 1001, 
+		"imageUrl": "gfg.png", 
+		"firstName": "Surya", 
+		"lastName": "Kumar", 
+		"email": "Thomas.Leannon@gfg.com", 
+		"contactNumber": "4121091095", 
+		"age": 43, 
+		"dob": "26/08/1979", 
+		"salary": 13000, 
+		"address": "Address1"
+	}, 
+	{ 
+		"id": 1002, 
+		"imageUrl": "gfg.png", 
+		"firstName": "Siva", 
+		"lastName": "Raman", 
+		"email": "Faye.Sauergfg.com", 
+		"contactNumber": "4914696673", 
+		"age": 60, 
+		"dob": "28/06/1962", 
+		"salary": 12000, 
+		"address": "Address2"
+	}, 
+	{ 
+		"id": 1003, 
+		"imageUrl": "gfg.png", 
+		"firstName": "Sri", 
+		"lastName": "Raman", 
+		"email": "Deven.Halvorsongfg.com", 
+		"contactNumber": "4479795571", 
+		"age": 29, 
+		"dob": "06/01/1993", 
+		"salary": 13000, 
+		"address": "Address3"
+	}, 
+	{ 
+		"id": 1004, 
+		"imageUrl": "gfg.png", 
+		"firstName": "elisa", 
+		"lastName": "megan", 
+		"email": "Melisa.Schuppegfg.com", 
+		"contactNumber": "4443995334", 
+		"age": 38, 
+		"dob": "06/09/1984", 
+		"salary": 14000, 
+		"address": "Address4"
+	}, 
+	{ 
+		"id": 1005, 
+		"imageUrl": "gfg.png", 
+		"firstName": "sunil", 
+		"lastName": "Kris", 
+		"email": "Dell.Krisgfg.com", 
+		"contactNumber": "4505692843", 
+		"age": 89, 
+		"dob": "14/03/1933", 
+		"salary": 10000, 
+		"address": "Address5"
+	}, 
+	{ 
+		"id": 1006, 
+		"imageUrl": "gfg.png", 
+		"firstName": "Manoj", 
+		"lastName": "kumar", 
+		"email": "Marcia.Gutmanngfg.com", 
+		"contactNumber": "4746199430", 
+		"age": 56, 
+		"dob": "24/07/1966", 
+		"salary": 16000, 
+		"address": "Address6"
+	}
+
+]
